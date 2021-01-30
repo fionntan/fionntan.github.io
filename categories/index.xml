@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ah, Grand So</title>
-    <link>fionntan.github.io/categories/</link>
+    <link>https://fionntan.github.io/categories/</link>
     <description>Recent content in Categories on Ah, Grand So</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="fionntan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language><atom:link href="https://fionntan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
